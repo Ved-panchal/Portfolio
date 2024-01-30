@@ -25,10 +25,16 @@ import {
     smit,
     AKAM,
     github,
+    git,
+    ms,
     instagram,
     twitter,
     linkedin,
     shreya,
+    // IBM,
+    IBM1,
+    STTL,
+    // IBM2,
   } from "../assets";
   
   export const navLinks = [
@@ -60,7 +66,7 @@ import {
       icon: ethereum,
     },
     {
-      title: "Blockchain Developer",
+      title: "Blockchain Software Developer",
       icon: blockchain,
     },
     {
@@ -81,10 +87,6 @@ import {
     {
       name: "JavaScript",
       icon: javascript,
-    },
-    {
-      name: "Avalanche",
-      icon: avalanche,
     },
     {
       name: "React JS",
@@ -122,6 +124,11 @@ import {
       name: "hardhat",
       icon: hardhat,
     },
+    {
+      name: "Git",
+      icon: git,
+    },
+
   ];
   
   const experiences = [
@@ -151,32 +158,33 @@ import {
         "Explored new frontiers in virtual reality, creating an immersive and visually stunning experience for the museum's visitors.",
       ],
     },
-    /*{
-      title: "Zeeve Meetups",
-      company_name: "Shopify",
-      icon: shopify,
+    {
+      title: "IBM FrontEnd Internship",
+      company_name: "IBM",
+      icon: IBM1,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "July 2023 - September 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Award-winning team from IBM Frontend Internship, showcasing excellence in problem-solving and innovation.",
+        "Developed a real-life solution addressing pertinent challenges, highlighting technical prowess and creativity.",
+        "Invited to IBM CSRBox Event in Delhi, recognizing impactful contributions to technology and society.",
+        "Leveraged IBM Frontend Internship to cultivate invaluable skills, driving meaningful impact through collaborative problem-solving and project development.",
       ],
     },
+    
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      title: "Internship",
+      company_name: "Silver Touch Pvt Ltd",
+      icon: STTL,
+      iconBg: "white",
+      date: "Jan 2024 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Secured position as Software Trainee at Silver Touch through Campus Placement, commencing January 2024.",
+        "Acquired comprehensive understanding of company fundamentals, client management, and full-stack system development.",
+        "Strengthened proficiency in MSSQL, honed object-oriented programming skills, and gained insight into ERP and SAP systems.",
+        "Demonstrated problem-solving capabilities through solving Data Structures and Algorithms questions, enhancing versatility and readiness for professional challenges.",
       ],
-    },*/
+    },
   ];
   
   const testimonials = [

@@ -12,11 +12,17 @@ import github from "./github.png";
 import view from "./view.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+// import IBM from "./company/IBM SkillsBuild.jpg"
+import IBM1 from "./company/IBM-logo.png"
+// import Silver from "./company/SilverTouch.png"
+import STTL from "./company/Silver.png"
+// import IBM2 from "./company/IBM.png"
 
 import css from "./tech/css.png";
 // import docker from "./tech/docker.png";
 // import figma from "./tech/figma.png";
-// import git from "./tech/git.png";
+import git from "./tech/git.png";
+import ms from "./tech/Ms-SQL.png"
 import avalanche from "./tech/avalanche.png";
 import ethers from "./tech/ethers.png";
 import truffle from "./tech/truffle.png";
@@ -64,6 +70,8 @@ export {
   creator,
   mobile,
   web,
+  git,
+  ms,
   github,
   view,
   menu,
@@ -100,4 +108,6 @@ export {
   tripguide,
   shreya,
   oys,
+  IBM1,
+  STTL,
 };

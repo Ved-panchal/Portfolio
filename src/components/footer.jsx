@@ -12,14 +12,14 @@ const footer = () => {
         <motion.div variants={
             fadeIn('right', "",0.2,1 )
         } 
-            className='flex h-2 flex-col mb-5'>
-        <p className={`${styles.sectionSubText} -mt-2`} >CopyRight © Made with ❤️ by Ved</p>
+            className='flex h-2 flex-col mb-5 items-center'>
+        <p className={`${styles.sectionSubText} -mt-2 mb-2`}>Let's Connect </p>
         <div className='flex flex-row mb-2 justify-center items-center'>
         <div
-            className=" space-x-2 flex justify-center m-3 -mt-1">
+            className=" space-x-7 flex justify-center m-3 -mt-1">
             <div
               className="mt-1 w-[1.9rem] h-[1.9rem]  rounded-full flex
-                  justify-center items-center cursor-pointer" 
+                   justify-evenly items-center cursor-pointer" 
             >
               <img 
                 src={github}
