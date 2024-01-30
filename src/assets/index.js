@@ -47,7 +47,7 @@ import AKAM from"./company/AKAM.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import nft from "./NFTproject.png";
+import nft from "./NFTProject.png";
 import oys from "./oys.png";
 import todo from "./to-do.png";
 import Chatapp from "./Chatapp1.png"
